@@ -1,0 +1,18 @@
+
+# Archivos compilados de Java
+*.class
+
+# Carpetas de compilacion
+/bin/
+/out/
+/target/
+
+# Configuracion local del entorno
+.vscode/
+.settings/
+.classpath
+.project
+
+# Archivos temporales
+*.log
+*.tmp
